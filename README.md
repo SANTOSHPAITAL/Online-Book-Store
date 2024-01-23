@@ -34,7 +34,7 @@ The application was deployed on AWS using the following architecture:
 ●	S3 Bucket: The front-end of the application was stored on an S3 Bucket. S3 is a scalable object storage service that can store and retrieve any amount of data.
  
 
-##Conclusion
+## Conclusion
 In conclusion, the development and deployment of a full-stack application on AWS was successful, leveraging Spring Boot and React for the back-end and front-end development respectively. The application was deployed using AWS RDS for the database, two EC2 instances in different regions, ELB for trafﬁc management, and an S3 Bucket for storing the front-end. The architecture provides redundancy, improves availability, and enhances the application's reliability.
  
 
@@ -45,5 +45,5 @@ In conclusion, the development and deployment of a full-stack application on AWS
 
 
 
-Thank You.
+# Thank You.
 
